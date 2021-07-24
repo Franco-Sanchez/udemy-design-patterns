@@ -25,4 +25,4 @@ export const withAudit = Model(auditProps);
 withAudit('Product', {
   name: String,
   description: String,
-})
+});
